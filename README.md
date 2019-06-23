@@ -1,2 +1,2 @@
-# SS
+# OTIS
 Online Tax Invoicing System
